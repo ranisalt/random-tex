@@ -1,0 +1,3 @@
+[submodule "relatorio/sbc"]
+	path = relatorio/sbc
+	url = https://github.com/ranisalt/sbc.git
